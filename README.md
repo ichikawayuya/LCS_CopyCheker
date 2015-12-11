@@ -1,0 +1,4 @@
+#LCS_Copy_Cheker
+
+LCS(Longest Common Subsequence)とは，diffコマンドで使用されているアルゴリズムの一つです．
+これを用いて最長な文字を選んで，文字列が50字以上ヒットしたらコピーとみなすプログラムを作成しました．
